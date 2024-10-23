@@ -1,4 +1,4 @@
-# AutomatedMartingaleRouletteStrategy
+# Automated_Martingale_Roulette_Strategy
 
 info on Martingale : https://en.wikipedia.org/wiki/Martingale_(probability_theory)
 
